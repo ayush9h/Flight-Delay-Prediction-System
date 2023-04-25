@@ -1,7 +1,7 @@
 Flight Departure Delay Prediction System
 ----------------------------------------
 
-<ul>
+<ul style="list-style-type:none">
   <li>1. Download the GitHub Repository.</li>
   <li>2. Install necessary libraries</li>
   <li>3. Run the ipynb file to create the encoders and flight_recommendation.</li>

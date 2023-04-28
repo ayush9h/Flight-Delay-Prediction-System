@@ -1,10 +1,29 @@
-Flight Departure Delay Prediction System
-----------------------------------------
+# Flight Delay Prediction System
 
-<ul>
-  <li>1. Download the GitHub Repository.</li>
-  <li>2. Install necessary libraries</li>
-  <li>3. Run the ipynb file to create the encoders and flight_recommendation.</li>
-  <li>4. Run the command: streamlit run app.py
-  </li>
- </ul>
+A system made to predict flight delays using Machine Learning models.
+
+
+## Deployment
+
+
+1. To setup this project 
+
+```bash
+  pip install streamlit
+  pip install joblib
+```
+2. Run the Jupyter Notebook once to create the flight_recommend.pkl and encoders.pkl file in your local system.
+
+3. Run app.py file using the streamlit command.
+
+```bash
+  streamlit run app.py
+```
+
+
+## Features of the system
+
+- Flight departure delay prediction
+- Fast and effective
+- User friendly UI using Streamlit
+

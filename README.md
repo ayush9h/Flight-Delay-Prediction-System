@@ -3,8 +3,7 @@
 A system made to predict flight delays using Machine Learning models.
 
 
-## Deployment
-
+## Installation
 
 1. To setup this project 
 

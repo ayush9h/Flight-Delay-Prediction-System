@@ -3,7 +3,7 @@
 A system made to predict flight delays using Machine Learning models.
 
 
-## Pre-requisiste
+## Pre-requisite
 
 Install the NYC Flights Dataset from Kaggle.<br>
 [Kaggle Dataset Link](https://www.kaggle.com/varunmarvah/nyc-flights-dataset-exploratory-analysis)

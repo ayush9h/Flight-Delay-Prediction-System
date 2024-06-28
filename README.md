@@ -1,4 +1,4 @@
-# Flight Delay Prediction System
+# Flight Delay Prediction System - Zenml Update
 
 A system made to predict flight delays using Machine Learning models.
 
@@ -9,21 +9,31 @@ Install the NYC Flights Dataset from Kaggle.<br>
 [Kaggle Dataset Link](https://www.kaggle.com/varunmarvah/nyc-flights-dataset-exploratory-analysis)
 
 
-## Installation and Deployment
+## Installation 
 
-1. To setup this project, install necessary external libraries mentioned below in terminal.
+1. Create a virtual environment and activate it
+  ```bash
+  python -m venv myenv
+  cd myenv/Scripts
+  activate
+```
+
+2. Then install necessary external libraries mentioned below in terminal.
 
 ```bash
   pip install streamlit
   pip install joblib
+  pip install zenml
+  pip install "zenml[server]"
 ```
-2. Run the Jupyter Notebook(.ipynb) once to create the flight_recommend.pkl and encoders.pkl file in your local system.
-
-3. Run app.py file using the streamlit command.
-
+or 
 ```bash
-  streamlit run app.py
+pip install -r requirements.txt
+
 ```
+
+3. You can run the notebook from the notebooks directory or run ```python main.py``` and enter the Zenml Dashboard with username "default".
+
 
 
 ## Features of the system
@@ -32,3 +42,6 @@ Install the NYC Flights Dataset from Kaggle.<br>
 - Fast and effective
 - User friendly UI using Streamlit
 
+
+## Screenshots
+![Demo](https://github.com/ayush9h/Blender-Projects/blob/main/Cybertruck/cyber.png)

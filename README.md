@@ -44,4 +44,4 @@ pip install -r requirements.txt
 
 
 ## Screenshots
-![Demo](https://github.com/ayush9h/Blender-Projects/blob/main/Cybertruck/cyber.png)
+![Demo](https://github.com/ayush9h/Flight-Delay-Prediction-System/blob/main/notebooks/Screenshot%202024-06-28%20121823.png)

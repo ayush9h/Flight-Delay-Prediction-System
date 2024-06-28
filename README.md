@@ -32,8 +32,9 @@ pip install -r requirements.txt
 
 ```
 
-3. You can run the notebook from the notebooks directory or run ```python main.py``` and enter the Zenml Dashboard with username "default".
+3. You can run the notebook from the notebooks directory or run ```python main.py```. 
 
+4. To start the zenml dashboard locally on windows, write  ```zenml up --blocking``` and enter the Zenml Dashboard with username "default".
 
 
 ## Features of the system

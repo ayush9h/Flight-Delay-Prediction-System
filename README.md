@@ -1,4 +1,4 @@
-# Flight Delay Prediction System - Zenml Update
+# Flight Delay Prediction System - ZenML Update
 
 A system made to predict flight delays using Machine Learning models.
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 3. You can run the notebook from the notebooks directory or run ```python main.py```. 
 
-4. To start the zenml dashboard locally on windows, write  ```zenml up --blocking``` and enter the Zenml Dashboard with username "default".
+4. To start the zenml dashboard locally on windows, write  ```zenml up --blocking```for Windows and  ```zenml up``` for Mac, and enter the Zenml Dashboard with username "default".
 
 
 ## Features of the system

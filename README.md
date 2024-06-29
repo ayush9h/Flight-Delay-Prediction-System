@@ -19,16 +19,17 @@ Install the NYC Flights Dataset from Kaggle.<br>
 
 2. Then install necessary external libraries mentioned below in terminal.
 
+**For StreamLit App**
 ```bash
   pip install streamlit
   pip install joblib
-  pip install zenml
-  pip install "zenml[server]"
 ```
 or 
+**For Normal Execution**
 ```bash
 pip install -r requirements.txt
-
+pip install "zenml[server]"
+pip install scikit-learn
 ```
 
 3. You can run the notebook from the notebooks directory or run ```python main.py```. 

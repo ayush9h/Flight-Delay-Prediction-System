@@ -14,8 +14,7 @@ Install the NYC Flights Dataset from Kaggle.<br>
 1. Create a virtual environment and activate it
   ```bash
   python -m venv myenv
-  cd myenv/Scripts
-  activate
+  ./myenv/Scripts/activate
 ```
 
 2. Then install necessary external libraries mentioned below in terminal.
